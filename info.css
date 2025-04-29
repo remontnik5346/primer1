@@ -1,0 +1,18 @@
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    border: none;
+    border-radius: 20px;
+    height: 500px;
+    width: 900px;
+    box-shadow: 5px 10px 11px rgba(0, 0, 0, 0.452);
+}
+.cardinf{
+
+}
